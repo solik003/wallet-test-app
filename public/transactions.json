@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "type": "payment",
+    "amount": 150.50,
+    "transactionName": "Grocery Shopping",
+    "transactionDescription": "Supermarket purchase",
+    "date": "2024-12-20T12:30:00Z",
+    "pending": false,
+    "authorisedUser": "John Doe",
+    "icon": "payment"
+  },
+  {
+    "id": 2,
+    "type": "credit",
+    "amount": 200.00,
+    "transactionName": "Bank Deposit",
+    "transactionDescription": "Deposit from savings",
+    "date": "2022-12-21T08:00:00Z",
+    "pending": true,
+    "authorisedUser": "Admin",
+    "icon": "credit"
+  },
+  {
+    "id": 3,
+    "type": "payment",
+    "amount": 150.50,
+    "transactionName": "Grocery Shopping",
+    "transactionDescription": "Supermarket purchase",
+    "date": "2024-12-20T12:30:00Z",
+    "pending": false,
+    "icon": "payment"
+  },
+  {
+    "id": 4,
+    "type": "credit",
+    "amount": 200.00,
+    "transactionName": "Bank Deposit",
+    "transactionDescription": "Deposit from savings",
+    "date": "2024-12-21T08:00:00Z",
+    "pending": true,
+    "authorisedUser": "Admin",
+    "icon": "credit"
+  },
+  {
+    "id": 5,
+    "type": "payment",
+    "amount": 150.50,
+    "transactionName": "Grocery Shopping",
+    "transactionDescription": "Supermarket purchase",
+    "date": "2024-12-20T12:30:00Z",
+    "pending": false,
+    "icon": "payment"
+  },
+  {
+    "id": 6,
+    "type": "credit",
+    "amount": 200.00,
+    "transactionName": "Bank Deposit",
+    "transactionDescription": "Deposit from savings",
+    "date": "2024-12-21T08:00:00Z",
+    "pending": true,
+    "authorisedUser": "Admin",
+    "icon": "credit"
+  },
+  {
+    "id": 7,
+    "type": "payment",
+    "amount": 150.50,
+    "transactionName": "Grocery Shopping",
+    "transactionDescription": "Supermarket purchase",
+    "date": "2024-12-20T12:30:00Z",
+    "pending": false,
+    "authorisedUser": "John",
+    "icon": "payment"
+  },
+  {
+    "id": 8,
+    "type": "credit",
+    "amount": 200.00,
+    "transactionName": "Bank Deposit",
+    "transactionDescription": "Deposit from savings",
+    "date": "2024-12-21T08:00:00Z",
+    "pending": true,
+    "authorisedUser": "Nick",
+    "icon": "credit"
+  },
+  {
+    "id": 9,
+    "type": "payment",
+    "amount": 150.50,
+    "transactionName": "Grocery Shopping",
+    "transactionDescription": "Supermarket purchase",
+    "date": "2024-12-20T12:30:00Z",
+    "pending": false,
+    "authorisedUser": "John Doe",
+    "icon": "payment"
+  },
+  {
+    "id": 10,
+    "type": "credit",
+    "amount": 200.00,
+    "transactionName": "Bank Deposit",
+    "transactionDescription": "Deposit from savings",
+    "date": "2020-12-21T08:00:00Z",
+    "pending": true,
+    "authorisedUser": "Admin",
+    "icon": "credit"
+  }
+]
